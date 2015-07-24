@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebApp.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppAddons.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppAdmin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppBeans.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppDocs.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppGui.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppIPAClient.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppServant.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppTaglibs.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebAppTransforms.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebBeans.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebBlocks.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebObjects.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebPlatform.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/websdk.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebTags.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebTasks.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebTransform.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/WebXMLUtils.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/JavaWebAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/Common Files/MicroStrategy/SDK.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
